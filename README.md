@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React.js and MongoDB**
 
-- ✉️ Feel free to reach out **shrinapatel359@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shrina359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrina359" height="30" width="40" /></a>
@@ -15,30 +13,31 @@
 
 <p>
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-B0DAFF?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-B0DAFF?style=for-the-badge&logo=openjdk&logoColor=black">
+  <img src="https://img.shields.io/badge/C-B0DAFF?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/Javascript-B0DAFF?style=for-the-badge&logo=javascript&logoColor=black">  
+  <img src="https://img.shields.io/badge/HTML-B0DAFF?style=for-the-badge&logo=html5&logoColor=black">
+  <img src="https://img.shields.io/badge/CSS-B0DAFF?&style=for-the-badge&logo=css3&logoColor=black">
+  <img src="https://img.shields.io/badge/R-B0DAFF?style=for-the-badge&logo=r&logoColor=black">
+  <img src="https://img.shields.io/badge/SQLite-B0DAFF?style=for-the-badge&logo=sqLite&logoColor=black">
   
 </div>
- 
  <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+ <img src="https://img.shields.io/badge/jQuery-19A7CE?style=for-the-badge&logo=jquery&logoColor=white">
+ <img src="https://img.shields.io/badge/Bootstrap-19A7CE?style=for-the-badge&logo=bootstrap&logoColor=white">
+ <img src="https://img.shields.io/badge/Node.js-19A7CE?style=for-the-badge&logo=node.js&logoColor=white">
+ <img src="https://img.shields.io/badge/Express.js-19A7CE?style=for-the-badge">
+
  </div>
  
  <div>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  
-  
+  <img src="https://img.shields.io/badge/GIT-146C94?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-146C94?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/GNU%20Bash-146C94?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-146C94?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-146C94?style=for-the-badge&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-146C94?style=for-the-badge&logo=slack&logoColor=white">
  </div>
  </p>
 
@@ -46,14 +45,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrina09&show_icons=true&theme=vision-friendly-dark" alt="shrina09" /></p>
 
-# <img src="https://media4.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=ecf05e47ajytqjupp365ekx0ivhfw4cghvcmlrymwf91cbdz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" height="40"> Contact Me:
+<p>Contact me: <a href="mailto: shrinapatel359@gmail.com">shrinapatel359@gmail.com</a></p>
 
 <div> 
   <p>
-    <a href="https://www.linkedin.com/in/shrina359/">
-  <img align="left" alt="Shrina's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-       
-     
-</a>
   </p>
 </div>
