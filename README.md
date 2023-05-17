@@ -49,10 +49,17 @@
 
 <p>
   <div>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrina09&show_icons=true&theme=vision-friendly-dark" alt="shrina09" />       </div>
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrina09&show_icons=true&theme=vision-friendly-dark" alt="shrina09" />
+     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrina09&show_icons=true&theme=vision-friendly-dark&layout=compact" alt="shrina09"/>
+</div>
 </p>
 
-
+<p>
+  <div>
+   
+  </div>
+</p>
+ 
 <p>
   <div align="center">
     Contact me: <a href="mailto: shrinapatel359@gmail.com">shrinapatel359@gmail.com</a>
