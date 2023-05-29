@@ -62,6 +62,6 @@
  
 <p>
   <div align="center">
-    Contact me: <a href="mailto: shrinapatel359@gmail.com">shrinapatel359@gmail.com</a>
+    Contact Me: <a href="mailto: shrinapatel359@gmail.com">shrinapatel359@gmail.com</a>
   </div>
 </p>
