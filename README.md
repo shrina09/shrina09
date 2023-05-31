@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋 I'm Shrina</h1>
 <h3 align="center">Software Engineering Student @ University of Guelph</h3>
-<!-- hi -->
 <p align="center">🌱 I’m currently learning <strong>React.js</strong>, <strong>Firebase</strong> and <strong>MongoDB</strong></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/shrina359/">
@@ -49,8 +48,8 @@
 
 <p>
   <div>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrina09&show_icons=true&theme=vision-friendly-dark" alt="shrina09" />
-     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrina09&show_icons=true&theme=vision-friendly-dark&layout=compact" alt="shrina09"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=shrina09&count_private=true&theme=tokyonight&hide=contribs,prs" width="490"  height="300">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrina09&theme=tokyonight&layout=compact" alt="Top Langs" width="300" height="300">
 </div>
 </p>
 
