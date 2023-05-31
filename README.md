@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Shrina</h1>
 <h3 align="center">Software Engineering Student @ University of Guelph</h3>
-
+<!-- hi -->
 <p align="center">🌱 I’m currently learning <strong>React.js</strong>, <strong>Firebase</strong> and <strong>MongoDB</strong></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/shrina359/">
