@@ -43,22 +43,6 @@
    </div>
 </p>
 
-# <img src="https://media4.giphy.com/media/QpyF0jsO26GWKTWctv/200w.webp?cid=ecf05e470zgds68fehqnyyx3a4vqvyu92slkacx8c4b4phti&ep=v1_stickers_search&rid=200w.webp&ct=s" width="60" height="60"> My Github Stats:
-
-
-<p>
-  <div>
-   <img src="https://github-readme-stats.vercel.app/api?username=shrina09&count_private=true&theme=tokyonight&hide=contribs,prs" width="490"  height="300">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrina09&theme=tokyonight&layout=compact" alt="Top Langs" width="300" height="300">
-</div>
-</p>
-
-<p>
-  <div>
-   
-  </div>
-</p>
- 
 <p>
   <div align="center">
     Contact Me: <a href="mailto: shrinapatel359@gmail.com">shrinapatel359@gmail.com</a>
