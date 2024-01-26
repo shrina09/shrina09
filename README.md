@@ -25,6 +25,7 @@
   
 <p>
    <div align="center">
+    <img src="https://img.shields.io/badge/jQuery-19A7CE?style=for-the-badge&logo=React.js&logoColor=white">
    <img src="https://img.shields.io/badge/jQuery-19A7CE?style=for-the-badge&logo=jquery&logoColor=white">
    <img src="https://img.shields.io/badge/Bootstrap-19A7CE?style=for-the-badge&logo=bootstrap&logoColor=white">
    <img src="https://img.shields.io/badge/Node.js-19A7CE?style=for-the-badge&logo=node.js&logoColor=white">
