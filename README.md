@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Shrina</h1>
 <h3 align="center">Software Engineering Student @ University of Guelph</h3>
-<p align="center">🌱 I’m currently learning <strong>React.js</strong>, <strong>Firebase</strong> and <strong>MongoDB</strong></p>
+<!-- <p align="center">🌱 I’m currently learning <strong>React.js</strong>, <strong>Firebase</strong> and <strong>MongoDB</strong></p> -->
 <p align="center">
   <a href="https://www.linkedin.com/in/shrina359/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="40">
@@ -30,6 +30,8 @@
    <img src="https://img.shields.io/badge/Bootstrap-19A7CE?style=for-the-badge&logo=bootstrap&logoColor=white">
    <img src="https://img.shields.io/badge/Node.js-19A7CE?style=for-the-badge&logo=node.js&logoColor=white">
    <img src="https://img.shields.io/badge/Express.js-19A7CE?style=for-the-badge">
+   <img src="https://img.shields.io/badge/MongoDB-19A7CE?style=for-the-badge&logo=mongodb&logoColor=white">
+
    </div>
 </p>
   
