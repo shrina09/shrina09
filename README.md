@@ -50,6 +50,7 @@
 
 <p>
   <div align="center">
+    <p> </p>
     Contact Me: <a href="mailto: shrinapatel359@gmail.com">shrinapatel359@gmail.com</a>
   </div>
 </p>
