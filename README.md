@@ -26,11 +26,13 @@
 <p>
    <div align="center">
    <img src="https://img.shields.io/badge/React.js-19A7CE?style=for-the-badge&logo=react.js&logoColor=white">
-   <img src="https://img.shields.io/badge/jQuery-19A7CE?style=for-the-badge&logo=jquery&logoColor=white">
-   <img src="https://img.shields.io/badge/Bootstrap-19A7CE?style=for-the-badge&logo=bootstrap&logoColor=white">
-   <img src="https://img.shields.io/badge/Node.js-19A7CE?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-19A7CE?style=for-the-badge&logo=node.js&logoColor=white">
    <img src="https://img.shields.io/badge/Express.js-19A7CE?style=for-the-badge">
    <img src="https://img.shields.io/badge/MongoDB-19A7CE?style=for-the-badge&logo=mongodb&logoColor=white">
+   <img src="https://img.shields.io/badge/jQuery-19A7CE?style=for-the-badge&logo=jquery&logoColor=white">
+   <img src="https://img.shields.io/badge/TailWind CSS-19A7CE?style=for-the-badge&logo=tailwindcss&logoColor=white">  
+   <img src="https://img.shields.io/badge/Bootstrap-19A7CE?style=for-the-badge&logo=bootstrap&logoColor=white">
+   
 
    </div>
 </p>
